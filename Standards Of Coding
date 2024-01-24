@@ -1,0 +1,33 @@
+1.High Availability:
+It involves using Java frameworks and technologies to build systems that can withstand failures and maintain operational continuity.
+
+2.Auto Scaling:
+Autoscaling means dynamically adjusting the number of JVM instances, which can be achieved using cloud-based auto-scaling services or container orchestration tools.
+
+3.Resiliency:
+resiliency refers to the ability of a system, network, or application to maintain functionality and recover quickly from failures, cyber-attacks, or other disruptions. This often involves redundancy, backups, and disaster recovery planning.
+
+4.Observability:
+Observability refers to the ability to measure, understand, and infer the internal state of a system
+Some of the tools used are: Tools like Elasticsearch, Kibana.
+
+5.Monitoring:
+ It mainly involves tracking the performance, availability, and security of computer systems, networks, applications, and services. It helps identify issues, ensure optimal performance, and prevent or quickly address potential problems.
+
+6.Loggs:
+logs are records that capture information about events and activities within a Java application or system.Utilizing logging frameworks such as Log4j or SLF4J to generate logs at different levels like DEBUG, INFO, WARN, ERROR.
+
+7.RTO - Recovery Time Objective
+It means the maximum allowable time for the recovery of a system after a failure or disaster.
+
+8.RPO - Recovery Point Objective
+ It helps organizations define the acceptable level of data loss they can tolerate and guides the development of strategies to ensure data recovery within the specified timeframe in the event of a disruption.
+
+9.Return on Investment (ROI):
+ For assessing the success of investments, projects, marketing campaigns, and other initiatives. It provides a standardized measure that can be used to compare the profitability of different investments.which defines profit or loss of the bussiness.
+
+
+
+
+
+
